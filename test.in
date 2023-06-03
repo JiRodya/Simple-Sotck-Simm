@@ -1,0 +1,14 @@
+buy ATT 100 10
+buy APPL 10 50
+sell ATT 50 13
+buy ATT 100 15
+sell APPL 5 55
+buy GOOG 100 6
+sell APPL 5 56
+sell ATT 120 18
+sell ATT 30 20
+buy APPL 10 50
+sell GOOG 80 8
+sell GOOG 20 5
+sell APPL 10 53
+quit
